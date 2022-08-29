@@ -1,5 +1,5 @@
-CREATE database Proyecto_Final
-use Proyecto_final
+CREATE database DB_JUEGOSWEB
+use DB_JUEGOSWEB
 
 /*
 CREACIÓN DE TABLAS: la base de datos cuenta con la creacion de unas 23 tablas. En la creacion se realizo en dos partes,primero
